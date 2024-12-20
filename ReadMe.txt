@@ -3,7 +3,9 @@ COMP 597 Final Project
 
 In the Trainers directory, VGG Trainer.py, InceptionV3 Trainer.ipynb, and EfficientNetV2S Trainer.ipynb were used for training the models.
 
-In the Models directory, VGGFinal.keras, Inceptionv3_Model.keras, and EfficientNet_v2S_Model.keras are the actual trained models.
+
+The models were too large to fit on GitHub so they can be found at the following Google Drive link:
+VGGFinal.keras, Inceptionv3_Model.keras, and EfficientNet_v2S_Model.keras are the actual trained models.
 
 VGGTrainingRecord.py was used to make the visualizations for VGG's training.
 
