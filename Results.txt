@@ -1,0 +1,34 @@
+Testing combo 1
+First past the post voting test accuracy: 0.9524733268671193
+Confidence voting test accuracy: 0.9757516973811833
+Competence voting test accuracy: 0.9524733268671193
+Weighted voting test accuracy: 0.976721629485936
+
+Testing combo 2
+First past the post voting test accuracy: 0.9602327837051406
+Confidence voting test accuracy: 0.976721629485936
+Competence voting test accuracy: 0.9709020368574199
+Weighted voting test accuracy: 0.9776915615906887
+
+Testing combo 3
+First past the post voting test accuracy: 0.9030067895247332
+Confidence voting test accuracy: 0.918525703200776
+Competence voting test accuracy: 0.9350145489815713
+Weighted voting test accuracy: 0.930164888457808
+
+Testing combo 4
+First past the post voting test accuracy: 0.9282250242483027
+Confidence voting test accuracy: 0.9747817652764307
+Competence voting test accuracy: 0.9709020368574199
+Weighted voting test accuracy: 0.973811833171678
+
+
+
+10 No one
+6 VGG
+31 Inception
+301 VGG, Inception
+2 EfficientNet
+12 VGG, EfficientNet
+24 Inception, EfficientNet
+645 VGG, Inception, EfficientNet
